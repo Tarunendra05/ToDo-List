@@ -10,7 +10,7 @@ A simple and intuitive todo list application built using React, where users can 
   
 ## Snapshots of app
 
-![App Screenshot](https://ibb.co/yyqtM3c)
+![App Screenshot]([https://ibb.co/yyqtM3c](https://www.linkpicture.com/q/Screenshot-2023-10-06-170856.png))
 
 
 ## Technologies Used
